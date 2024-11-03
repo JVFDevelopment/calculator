@@ -15,4 +15,4 @@ To use the calculator:
 
 1. Clone this repository.
    ```bash
-   git clone https://github.com/your-username/advanced-calculator-webapp.git
+   git clone https://github.com/jvfdevelopment/calculator.git
